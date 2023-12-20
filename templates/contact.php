@@ -1,5 +1,3 @@
-<?php include('inc/banniere.php'); ?>
-
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -9,6 +7,7 @@
         <title>Contact</title>
     </head>
     <body>
+    <?php include('inc/banniere.php'); ?>
     <main>
         <h1>Pour nous contacter</h1>
         <p class="picpage"><img src="img/contacts.jpg" alt="" /></p>
